@@ -1,0 +1,106 @@
+/* --------------------------------------
+=========================================
+COLOR : GREEN 
+
+MAIN COLOR CODE: #fc7790
+
+HOVER COLOR CODE: #fee4e9
+
+PATTERN: pattern1.png
+=========================================
+----------------------------------------- */
+
+body {
+    background-image: url(../patterns/pattern1.png);
+}
+.top-bar {
+    background: #fc7790 none repeat scroll 0 0;
+}
+.is-sticky .navbar-area {
+  box-shadow: 0 3px 5px #fc7790;
+}
+.single-address span {
+    color: #feb1bf;
+}
+.language-options::before {
+  color: #feb1bf;
+}
+.social-icon a {
+  color: #494949;
+}
+.menu li a:hover, .menu li.active a {
+  border-color: #fc7790;
+  color: #fc7790;
+}
+.home-image-slider .slick-arrow:hover {
+  background: #fc7790 none repeat scroll 0 0;
+}
+.subsection-item:hover {
+    color: #fc7790;
+    background: rgba(0, 0, 0, .5);
+}
+.section-title {
+  color: #fc7790;
+}
+.bakery-img {
+  background: #fc7790 none repeat scroll 0 0;
+}
+.single-bakery {
+  border: 1px solid #fee4e9;
+  background: rgba(255, 230, 234, 0.35) none repeat scroll 0 0;
+}
+.single-bakery h2 {
+  color: #fc7790;
+}
+.single-baked p {
+  background: #fc7790 none repeat scroll 0 0;
+}
+.baked-slider li.slick-active button {
+  background: #be9eda none repeat scroll 0 0;
+}
+.long-title span {
+  color: #fc7790;
+}
+.descout-content > p {
+  background: rgba(252, 119, 144, 0.6) none repeat scroll 0 0;
+}
+.descount-button a {
+  background: #fc7790 none repeat scroll 0 0;
+}
+.testimonial-single {
+  background: #fff6f8 none repeat scroll 0 0;
+  border: 2px solid #fee4e9;
+}
+.panel-item {
+  background: #fff6f8 none repeat scroll 0 0;
+}
+.testimonial-slider .slick-dots li button {
+  border: 2px solid #fc859c;
+}
+.single-baker-item p {
+  background: #fc7790 none repeat scroll 0 0;
+}
+.address-list span {
+  color: #fc7790;
+}
+.send-button {
+  background: #fc7790 none repeat scroll 0 0;
+}
+.send-button span {
+  color: #feb1bf;
+}
+.popular-item {
+  background: #fc7790 none repeat scroll 0 0;
+}
+.single-item::before {
+  border: 2px solid #ff9daf;
+}
+.popular-item-slider .slick-dots li button {
+  border: 1px solid #ff9daf;
+}
+.footer-section p a {
+  color: #fc7790;
+}
+.footer-section p span {
+  color: #fc7790;
+}
